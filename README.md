@@ -95,7 +95,7 @@ Siêu tham số |  SCAR  | NON-SCAR |
 --------- | --------- | --------- | 
 alpha_gen | 0.3 | 1 | 
 alpha_disc | 0.3 | 1 | 
-alpha_gen2 | 3 | 2 | 
+alpha_gen2 | 1 | 2 | 
 
 
 
