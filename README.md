@@ -121,7 +121,7 @@ alpha_gen2 | 3 | 2 |
 
 
 
-#### 2. Phân tích khả năng phát hiện nâng cao
+### 2. Phân tích khả năng phát hiện nâng cao
 
 Sau khi có kết quả từ các kịch bản trên, mô hình tiến hành một bước phân tích chuyên sâu:
 
