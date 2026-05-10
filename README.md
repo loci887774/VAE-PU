@@ -12,8 +12,6 @@ Dự án này tập trung vào việc ứng dụng mô hình Deep Generative Pos
 
 * **Mô hình cốt lõi:** VAE-PU (Variational Autoencoder for Positive-Unlabeled Learning).
 
-* **Xử lý Bias:** Giải quyết vấn đề gán nhãn không ngẫu nhiên (Selection Bias) trong dữ liệu mã độc thực tế.
-
 * **Mục tiêu:** Nâng cao khả năng tổng quát hóa của mô hình đối với các mẫu mã độc tinh vi trong môi trường thiếu hụt dữ liệu lành tính và gán nhãn không ngẫu nhiên.
 
 
